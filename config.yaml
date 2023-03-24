@@ -3,15 +3,6 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        artificial intelligence: 1
-        AI: 1
-        deep learning: 1
-        machine learning: 1
-        reinforcement learning: 1
-        in-context learning: 1
-        self-supervised learning: 1
-        transformer: 1
-
         sport: 1
         pose estimation: 1
         object detection: 1
@@ -33,15 +24,17 @@ keywords:
         football: 1
         soccer: 1
         penalty kick: 1
+        PK: 1
         goalkeeper: 1
+        GK: 1
         goalkeeping: 1
 
-        LLM: 1
         prompt engineering: 1
         prompting: 1
 
-
         syntax: 1
+        linguistics: 1
+        linguistic: 1
         formal language: 1
         targeted syntactic evaluation: 1
         syntactic: 1
