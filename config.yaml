@@ -15,6 +15,9 @@ keywords:
         sport: 1
         pose estimation: 1
         object detection: 1
+        object tracking: 1
+        multi-object tracking: 1
+        YOLO: 1
         action recognition: 1
         gesture recognition: 1
         activity recognition: 1
