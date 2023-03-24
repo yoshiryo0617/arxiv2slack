@@ -3,9 +3,49 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        artificial intelligence: 1
+        AI: 1
+        deep learning: 1
+        machine learning: 1
+        reinforcement learning: 1
+        in-context learning: 1
+        self-supervised learning: 1
+        transformer: 1
+
+        sport: 1
+        pose estimation: 1
+        object detection: 1
+        action recognition: 1
+        gesture recognition: 1
+        activity recognition: 1
+        highlight detection: 1
+        temporal action localization: 1
+        body orientation: 1
+        performance analysis: 1
+        human movement: 1
+        human motion: 1
+        motion capture: 1
+        openpose: 1
+
+        football: 1
+        soccer: 1
+        penalty kick: 1
+        goalkeeper: 1
+        goalkeeping: 1
+
+        LLM: 1
+        prompt engineering: 1
+        prompting: 1
+
+
+        syntax: 1
+        formal language: 1
+        targeted syntactic evaluation: 1
+        syntactic: 1
+        semantic: 1
+        semantics: 1
+        parsing: 1
+
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 2
