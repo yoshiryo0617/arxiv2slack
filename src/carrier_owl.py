@@ -113,9 +113,9 @@ def notify(results: list, slack_id: str, line_token: str) -> None:
         text = (
             f"\n score: `{score}`"
             f"\n hit keywords: `{word}`"
-            f"\n url: {url}"
-            f"\n title:    {title}"
-            f"\n abstract:"
+            f"\n{title}"
+            f"\n abstract: {url}"
+            f"\n abstract(text):"
             f"\n \t {abstract}"
             f"\n {star}"
         )
