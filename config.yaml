@@ -3,49 +3,22 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        sport: 1
-        pose estimation: 1
-        object detection: 1
-        object tracking: 1
-        multi-object tracking: 1
-        YOLO: 1
-        action recognition: 1
-        gesture recognition: 1
-        activity recognition: 1
-        highlight detection: 1
-        temporal action localization: 1
-        body orientation: 1
-        performance analysis: 1
-        human movement: 1
-        human motion: 1
-        motion capture: 1
-        openpose: 1
-
-        football: 1
-        soccer: 1
-        penalty kick: 1
-        PK: 1
-        goalkeeper: 1
-        GK: 1
-        goalkeeping: 1
-
-        prompt engineering: 1
-        prompting: 1
-        prompt: 1
-        prompts: 1
         large language model: 1
         LLM: 1
 
         syntax: 1
         linguistics: 1
         linguistic: 1
-        formal language: 1
         targeted syntactic evaluation: 1
         syntactic: 1
         semantics: 1
         parsing: 1
         cognitive modeling: 1
         language acquisition: 1
+        grammar: 1
+        eye-tracking: 1
+        reading time: 1
+        brain: 1
 
 
 # 通知の閾値
