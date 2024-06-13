@@ -3,7 +3,6 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        large language model: 1
         LLM: 1
 
         syntax: 1
